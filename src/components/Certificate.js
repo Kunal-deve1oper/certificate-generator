@@ -1,6 +1,5 @@
 import React from "react";
 import image from "../images/back.png";
-import signature from "../images/sig.png";
 import "../App.css";
 import html2canvas from "html2canvas";
 import { saveAs } from "file-saver";
